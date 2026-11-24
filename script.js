@@ -1,3 +1,4 @@
+// updated by CertifiedWagyu
 document.getElementById('loginForm').addEventListener('submit', function (e) {
   e.preventDefault();
 
