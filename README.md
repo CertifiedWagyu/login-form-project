@@ -31,3 +31,5 @@ Each member worked on a dedicated branch and merged into `main`:
 - `css-styling` - Added styles
 - `js-validation` - Added empty-field validation
 - `docs` - Wrote usage instructions and project description
+
+Updated by jrnxrnel
